@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.logo {
+    width: 150px;
+    height: 150px;
+}
+
+.nav-items-right {
+    margin-left: auto;
+}
+
+.users {
+    border: solid 2px black;
+    margin-left: 10px;
+    border-radius: 15px;
+}
+
+.packages-bg {
+    background-image: url("https://images.unsplash.com/photo-1682686578707-140b042e8f19?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDEzfHx8ZW58MHx8fHx8");
+    background-size: cover;
+    min-height: 80vh;
+    margin: 10px;
+    padding: 20px;
+}
+
+.package-details {
+    padding-left: 10px;
+    padding-right: 10px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.box {
+    border: 2px solid #848785;
+    /* Black border */
+    border-radius: 20px;
+    color: #848785;
+    margin-right: 10px;
+    margin-top: 20px;
+}
+
+.details-style {
+    color: #5c5e5c;
+}
+
+.option-style {
+    width: 100%;
+    border-style: none;
+}
+
+.destination {
+    border-style: none;
+    width: 100px;
+}
+
+.search {
+    background-color: black;
+    border-radius: 20px;
+    width: 60px;
+    height: 70px;
+    color: white;
+    margin: 10px;
+    margin-top: 20px;
+
+}
